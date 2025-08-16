@@ -1,0 +1,118 @@
+/* Color Theme Swatches in Hex */
+.Principal { color: #ca1c1c; }
+.Segundario { color: #05C503; }
+.Alternativa { color: #9FC131; }
+.Destaque { color: #DBF227; }
+.Fundo-5-hex { color: #D6D58E; }
+
+html {
+    background-color: #D6D58E ;
+    color: #ca1c1c;
+
+    font-size: 17px;
+    font-family: sans-serif;
+
+}
+
+.explanation {
+    width: 60%;
+    border-right: #1f295c solid 1px;
+    padding-right: 2%;
+}
+
+.page-wrapper {
+    width: 80%;
+    max-width: 1280px;
+    margin: auto;
+}
+
+.page-wrapper {
+    position: relative;
+}
+
+.design-selection {
+    position: absolute;
+    left: 62%;
+    top: 560px;
+    padding-left: 1%;
+    padding-right: 1%
+}
+
+#intro p {
+    font-size: 6em;
+}
+
+#design-archives {
+    display: none;
+}
+
+.intro {
+    height: 550px;
+}
+
+a {
+    color: #05C503;
+}
+
+strong {
+    color: #DBF227;
+}
+ 
+p {
+    text-indent: 1em;
+}
+
+h1 {size: 1.8rem;}
+h2 {size: 1.4rem;}
+h3 {size: 1.2rem;}
+
+h1, h2, h3 {
+  text-align: center;
+}
+
+.summary    {text-align: center;}
+.main p {
+    line-height: 1.5;
+}
+abbr {
+    font-variant: small-caps;
+}
+
+#zen-intro header{
+    background-color: #ca1c1c;
+    color: #D6D58E;
+
+    margin: auto;
+}
+
+#zen-intro header h1, #zen-intro header h2 {
+    display: inline-block;
+    
+    
+}
+
+#zen-intro header h1 {
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+aside ul {list-style-type: none;}
+
+aside ul li {
+    margin: 1em;
+    text-align: center;
+}
+
+.main footer {
+    margin: 4%;
+}
+
+.main footer a {
+    padding: 0.5em;
+    border: solid 2px;
+    display: inline-block;
+}
+
+footer {
+    text-align: center;
+}
